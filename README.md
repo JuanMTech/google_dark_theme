@@ -1,6 +1,10 @@
 # Google Dark Theme
 A Home Assistant theme inspired on Google app dark mode.
 
+<p align="center">
+  <img src="https://i.imgur.com/eelK3dj.png">
+</p>
+
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
 
