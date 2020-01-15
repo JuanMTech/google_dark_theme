@@ -31,3 +31,16 @@ frontend:
 ### Enable theme
 1. Open your Home Assistant Profile
 2. Under, Themes, select the new Google Dark Theme
+
+
+### Custom Header settings
+When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
+
+<pre>
+custom_header:
+  compact_mode: true
+  background: var(--app-header-background-color)
+  elements_color: var(--app-header-text-color)
+  active_tab_color: var(--state-icon-active-color)
+  tab_indicator_color: var(--state-icon-active-color)
+</pre>
