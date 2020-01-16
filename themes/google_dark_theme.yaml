@@ -45,11 +45,17 @@ Google Dark Theme:
   ha-card-box-shadow: 1px 1px 5px 0px rgb(12, 12, 14)
   paper-card-background-color: "#202124"
   paper-listbox-background-color: "#202124"
+  # Switches
+  switch-checked-button-color: "#5F9BEA"
+  switch-checked-track-color: "#404D64"
+  switch-unchecked-button-color: "#B9B9B9"
+  switch-unchecked-track-color: "#636466"
   # Toggles
-  paper-toggle-button-checked-button-color: "#5F9BEA"
-  paper-toggle-button-checked-bar-color: "#404D64"
-  paper-toggle-button-unchecked-button-color: "#B9B9B9"
-  paper-toggle-button-unchecked-bar-color: "#636466"
-  # Table row
+  paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
+  paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
+  paper-toggle-button-unchecked-button-color: var(--switch-unchecked-button-color)
+  paper-toggle-button-unchecked-bar-color: var(--switch-unchecked-track-color)
+  # Table
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
+  data-table-background-color: var(--primary-background-color)
