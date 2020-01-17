@@ -16,11 +16,11 @@ A Home Assistant theme inspired on Google app dark mode.
   <img src="https://i.imgur.com/CS3N3kB.png">
 </p>
 
+**2. Mobile**
+
 <p align="center">
   <img src="https://i.imgur.com/D4RDkiG.png">
 </p>
-
-**2. Mobile**
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
