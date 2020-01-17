@@ -9,10 +9,18 @@ A Home Assistant theme inspired on Google app dark mode.
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+### Screenshots
+
+**1. Desktop**
+<p align="center">
+  <img src="https://i.imgur.com/CS3N3kB.png">
+</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/eelK3dj.png">
+  <img src="https://i.imgur.com/D4RDkiG.png">
 </p>
+
+**2. Mobile**
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
@@ -38,8 +46,8 @@ frontend:
 3. Paste the content in the `google_dark_theme.yaml` file created under your Home Assistant themes folder
 
 ### Enable theme
-1. Open your Home Assistant Profile
-2. Under, Themes, select the new Google Dark Theme
+1. Open your Home Assistant **Profile**
+2. Under, **Themes**, select the new Google Dark Theme
 
 
 ### Custom Header settings
