@@ -5,7 +5,7 @@
 # My Home Assistant Config files: https://github.com/JuanMTech/Home_Assistant_files
 #
 #
-Google Dark Theme:
+Google_Dark_Theme:
   # Header:
   app-header-background-color: "#171717"
   app-header-text-color: "#BDC1C6"
