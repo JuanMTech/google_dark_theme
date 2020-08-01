@@ -19,7 +19,7 @@ Google Dark Theme:
   primary-text-color: "#BDC1C6"
   secondary-text-color: "#BDC1C6"
   text-primary-color: "#FFFFFF"
-  disabled-text-color: "#000000"
+  disabled-text-color: "#717171"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
   sidebar-text-color: "#BDC1C6"
