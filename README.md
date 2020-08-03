@@ -1,34 +1,36 @@
 # Google Dark Theme
+
 A Home Assistant theme inspired on Google app dark mode.
+<br />
+<br />
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
 
 [![Subscribe to YouTube channel][youtube-sub-shield]][youtubesubscribe]
 
 [![Become a Patron][become-a-patron-shield]][becomeapatron]
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+<br />
+<br />
 
 ### Screenshots
 
-**1. Desktop**
-<p align="center">
-  <img src="https://i.imgur.com/CS3N3kB.png">
-</p>
-
-**2. Mobile**
-
-<p align="center">
-  <img src="https://i.imgur.com/D4RDkiG.png">
-</p>
+![Google Dark Mode 1](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%201.jpg)<br />
+<br />
+![Google Dark Mode 2](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%202.jpg)<br />
+<br />
+![Google Dark Mode 3](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%203.jpg)<br />
+<br />
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
 
-<pre>
+```
 frontend:
   themes: !include_dir_merge_named themes
-</pre>
+```
 
 2. Under the Home Assistant **Config** folder, create a new folder named **themes**
 3. **Restart** Home assistant to apply the changes. 
@@ -53,14 +55,14 @@ frontend:
 ### Custom Header settings
 When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
 
-<pre>
+```
 custom_header:
   compact_mode: true
   background: var(--app-header-background-color)
   elements_color: var(--app-header-text-color)
   active_tab_color: var(--state-icon-active-color)
   tab_indicator_color: var(--state-icon-active-color)
-</pre>
+```
 
 
 
