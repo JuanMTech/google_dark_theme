@@ -75,5 +75,6 @@ Google Dark Theme:
   material-background-color: var(--secondary-background-color)
   material-secondary-background-color: var(--primary-background-color)
   mdc-theme-surface: var(--primary-background-color)
+  paper-listbox-color: var(--primary-text-color)
   # Pre/Code
   markdown-code-background-color: rgb(23, 23, 23)
