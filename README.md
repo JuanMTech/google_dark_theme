@@ -1,3 +1,7 @@
+# NEW VERSION OF THIS THEME IS AVAILABLE. IT SUPPORTS BOTH LIGHT AND DARK MODE. YOU CAN CHECK THE THEME [HERE](https://github.com/JuanMTech/google-theme).
+<br />
+<br />
+
 # Google Dark Theme
 
 A Home Assistant theme inspired on Google app dark mode.
@@ -18,10 +22,6 @@ A Home Assistant theme inspired on Google app dark mode.
 ### Screenshots
 
 ![Google Dark Mode 1](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%201.jpg)<br />
-<br />
-![Google Dark Mode 2](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%202.jpg)<br />
-<br />
-![Google Dark Mode 3](https://raw.githubusercontent.com/JuanMTech/google_dark_theme/master/images/Google%20Dark%20Mode%203.jpg)<br />
 <br />
 
 ### Preparation
@@ -55,14 +55,14 @@ frontend:
 ### Custom Header settings
 When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
 
-```
-custom_header:
-  compact_mode: true
-  background: var(--app-header-background-color)
-  elements_color: var(--app-header-text-color)
-  active_tab_color: var(--state-icon-active-color)
-  tab_indicator_color: var(--state-icon-active-color)
-```
+<br />
+<br />
+<br />
+
+# Other available themes
+- [**iOS Theme**](https://github.com/JuanMTech/ios-theme) - Based on the system-wide light and dark mode UI
+- [**Google Theme**](https://github.com/JuanMTech/google-theme) - Based on the Android light and dark interface
+- [**AMOLED Blue**](https://github.com/JuanMTech/amoled_blue) - A true black Home Assistant theme for devices with AMOLED displays
 
 
 
